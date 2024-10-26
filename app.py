@@ -1,3 +1,4 @@
+import os  # Add this import
 from flask import Flask, request, jsonify, render_template
 import symptom_analyzer
 import time
