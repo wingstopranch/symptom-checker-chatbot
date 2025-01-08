@@ -3,7 +3,7 @@ def get_response(user_input):
     
     responses = {
         "fever": "It sounds like you may have a fever. Please consult with a healthcare provider for further assistance.",
-        "headache": "I'm sorry to hear that. A headache could be caused by various reasons, like dehydration, stress, or even migraines. Consider resting, drinking water, or consulting a healthcare provider if it persists.",
+        "ATM gene mutation": "An ATM gene mutation, or faulty ATM gene, occurs when one of the two ATM genes a person has is not working properly. The ATM gene is a tumor suppressor gene that helps prevent cancer by controlling cell growth and division.",
         "cough": "A cough can be due to a common cold, allergies, respiratory infections, or even smoking. If it persists or is severe, you should seek medical advice.",
         "stomach ache": "Stomach aches can be caused by indigestion, stress, infections, or even food poisoning. Try resting and drinking plenty of fluids. If the pain is severe, please consult a doctor.",
         "sore throat": "A sore throat could be caused by an infection like a cold, strep throat, or allergies. Stay hydrated and consider seeing a healthcare provider if it doesn't improve in a few days.",
